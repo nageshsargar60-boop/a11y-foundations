@@ -1,3 +1,4 @@
+
 # A11y Lab — React + TypeScript Playground
 
 A responsive learning project for the internship Foundations assignment: custom modal dialog, tabs, and disclosure components, plus Radix-based shadcn-style Dialog and Tabs demos.
